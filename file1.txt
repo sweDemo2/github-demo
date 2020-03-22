@@ -4,3 +4,7 @@ test file
      
      브랜치에서 고쳐보세
          두번 
+
+
+  나는 sweDemo2 입니다. 외부 contributor 입니다
+  안뇽~~~
